@@ -27,6 +27,7 @@ nav {
   justify-content:space-between;
   background: rgba(255, 255, 255, 1);
   border-bottom: 1px solid black;
+  align-items: center;
 }
 
 .left {
@@ -47,6 +48,7 @@ nav {
   display: flex;
   flex-direction: row;
 }
+
 
 .global-button {
   padding: 10px 20px;
@@ -72,7 +74,7 @@ nav {
   margin: 0 20px;
   display: flex;
   align-items: center;
-  padding: 10px;
+  padding: 10px 10px;
 }
 
 main {
